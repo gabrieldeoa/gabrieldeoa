@@ -22,11 +22,9 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="35" height="35"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/></p>
 
-<p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=gabrieldeoa&show_icons=false" alt="gabrieldeoa" />
-</p>
-
 <p align="center">
 <a href="https://linkedin.com/in/gabriel-de-oliveira-araujo-797172117" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabriel-de-oliveira-araujo-797172117" height="40" width="40" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieldeoa" alt="gabrieldeoa" /> </p>
