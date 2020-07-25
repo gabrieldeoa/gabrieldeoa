@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Gabriel Araujo</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">💬 Ask me about Javascript</p>
 
