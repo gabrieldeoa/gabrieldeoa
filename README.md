@@ -27,4 +27,4 @@
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabriel-de-oliveira-araujo-797172117" height="40" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieldeoa" alt="gabrieldeoa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrieldeoa" alt="gabrieldeoa" /> </p>
