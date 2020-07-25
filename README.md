@@ -1,9 +1,11 @@
 <h1 align="center">Hello World, I'm Gabriel Araujo</h1>
 <h3 align="center">Full Stack Developer</h3>
 
+<p align="center">🔭 I’m currently working on <strong>RG Sistemas</strong></p>
+
 <p align="center">💬 Ask me about Javascript</p>
 
-<p align="center">📫 How to reach me gabrielaraujo.dev@gmail.com</p>
+<p align="center">📫 How to reach me <strong>gabrielaraujo.dev@gmail.com</stron</p>
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="35" height="35"/> 
@@ -19,8 +21,9 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="35" height="35"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/></p>
+
 <p align="center"> 
-<img src="https://github-readme-stats.vercel.app/api?username=gabrieldeoa&show_icons=true" alt="gabrieldeoa" />
+<img src="https://github-readme-stats.vercel.app/api?username=gabrieldeoa&show_icons=false" alt="gabrieldeoa" />
 </p>
 
 <p align="center">
