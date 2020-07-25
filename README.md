@@ -1,4 +1,5 @@
-<h1 align="center">Hello World, I'm Gabriel Araujo</h1>
+<h1 align="center">Hello World! </h1>
+<h2 align="center"> I'm Gabriel Araujo</h2>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">🔭 I’m currently working on <strong>RG Sistemas</strong></p>
