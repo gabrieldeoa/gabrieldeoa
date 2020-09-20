@@ -1,10 +1,20 @@
-<h1 align="center">Hello World! I'm Gabriel Araujo</h1>
+<h1 align="center">Hello World! </h1>
+<h2 align="center">I'm Gabriel Araujo </h1>
 <h3 align="center">Full Stack Developer</h3>
+
+<p align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-de-oliveira-araujo-797172117/)](https://www.linkedin.com/in/gabriel-de-oliveira-araujo-797172117/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielaraujo.dev@gmail.com)](mailto:gabrielaraujo.dev@gmail.com)
+
+</p>
+
 
 <p align="center">🔭 I’m currently working on <strong>RG Sistemas</strong></p>
 
 <p align="center">💬 Ask me about Javascript</p>
 
+<p align="center">Studying <strong>React Js, React Native, Node.js and Typescript</stron</p>
 <p align="center">📫 How to reach me <strong>gabrielaraujo.dev@gmail.com</stron</p>
 
 <p align="center">
@@ -22,9 +32,5 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="35" height="35"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/></p>
 
-<p align="center">
-<a href="https://linkedin.com/in/gabriel-de-oliveira-araujo-797172117" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gabriel-de-oliveira-araujo-797172117" height="40" width="40" /></a>
-</p>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrieldeoa" alt="gabrieldeoa" /> </p>
+
