@@ -1,15 +1,14 @@
-<h1 align="center">Hello World! </h1>
-<h2 align="center">I'm Gabriel Araujo </h1>
-<h3 align="center">Full Stack Developer</h3>
+<h2>Hello World! </h2>
+<h3>I'm Gabriel Araujo , Full Stack Developer</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-de-oliveira-araujo-797172117/)](https://www.linkedin.com/in/gabriel-de-oliveira-araujo-797172117/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielaraujo.dev@gmail.com)](mailto:gabrielaraujo.dev@gmail.com)
 
-<p align="center">
+
 <table>
   <tbody>
     <tr>
-      <td colspan="2">
+      <td colspan="3">
         <p align="center">🔭 I’m currently working on <strong>RG Sistemas</strong></p>
       </td>
     </tr>
@@ -22,12 +21,12 @@
       </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td colspan="3">
         <p align="center">📫 How to reach me <strong>gabrielaraujo.dev@gmail.com</stron</p>
       </td>
     </tr>
     <tr>
-      <td colspan="2">
+      <td colspan="3">
       <p align="center">
             <strong align="center">knowledge / skills</strong>
           </p>
