@@ -5,7 +5,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-de-oliveira-araujo-797172117/)](https://www.linkedin.com/in/gabriel-de-oliveira-araujo-797172117/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielaraujo.dev@gmail.com)](mailto:gabrielaraujo.dev@gmail.com)
 
-<table style="text-align:center;">
+<p align="center">
+<table>
   <tbody>
     <tr>
       <td colspan="2">
@@ -48,6 +49,6 @@
     </tr>
   </tbody>
 </table>
-
+</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrieldeoa" alt="gabrieldeoa" /> </p>
 
