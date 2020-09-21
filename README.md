@@ -49,5 +49,4 @@
   </tbody>
 </table>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=gabrieldeoa" alt="gabrieldeoa" /> </p>
 
