@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielaraujo.dev@gmail.com)](mailto:gabrielaraujo.dev@gmail.com)
 
 
-<table>
+<table align="center">
   <tbody>
     <tr>
       <td colspan="3">
